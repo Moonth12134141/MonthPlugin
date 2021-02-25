@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MonthPlugin">
+    <output-path>$PROJECT_DIR$/Server/plugins</output-path>
+    <root id="archive" name="MonthPlugin.jar">
+      <element id="module-output" name="MonthPlugin" />
+    </root>
+  </artifact>
+</component>
