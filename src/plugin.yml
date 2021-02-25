@@ -1,0 +1,12 @@
+name: MonthPlugin
+version: 1.0.0
+api-version: 1.12
+
+author: Month
+
+main: Month.Main.MonthPlugin
+
+description:
+
+commands:
+permissions:
