@@ -9,4 +9,9 @@ main: Month.Main.MonthPlugin
 description:
 
 commands:
+  Month:
+    description: Month
+    aliases: mh
+    permission: <plugin name>.Month
+    permission-message: <permission>
 permissions:

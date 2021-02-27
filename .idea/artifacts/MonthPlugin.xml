@@ -1,8 +1,12 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="MonthPlugin">
+  <artifact type="jar" build-on-make="true" name="MonthPlugin">
     <output-path>$PROJECT_DIR$/Server/plugins</output-path>
     <root id="archive" name="MonthPlugin.jar">
       <element id="module-output" name="MonthPlugin" />
+      <element id="library" level="project" name="bukkit-1.12.2-R0.1-20180712.012114-155" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
     </root>
   </artifact>
 </component>
